@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.review{
+    margin-left: 15px;
+}
+
+.review__plataforma{
+    color:#c00c00
+}
+
+.review img {
+    width: 100%;
+    margin-left: 0;
+}
+
+.review p {
+    margin-top: 30px;
+}
+
+.review label{
+    font-size: 12px;
+}
