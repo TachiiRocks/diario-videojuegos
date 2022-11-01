@@ -13,16 +13,26 @@ body {
 }
 
 .review img {
-    width: 100%;
+    width: 95%;
     margin-left: 0;
 }
 
 .review p {
     margin-top: 30px;
+    line-height: 2rem;
 }
 
 .review label{
     font-size: 12px;
+}
+
+.review__comillas{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.review__h3-mid{
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 
